@@ -209,6 +209,4 @@
 -----
 Credits: [1999AZZAR](https://github.com/1999AZZAR)
   <br/>
- <div>
 [![ybenlafk's 42 stats](https://badge.mediaplus.ma/binary/ybenlafk)](https://github.com/oakoudad/badge42)
-  </div>
