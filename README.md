@@ -205,8 +205,5 @@
 </details>
 <br/>
 </details> 
-
------
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
+<br/>
 [![ybenlafk's 42 stats](https://badge.mediaplus.ma/binary/ybenlafk)](https://github.com/oakoudad/badge42)
