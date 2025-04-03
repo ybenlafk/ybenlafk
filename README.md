@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! 👋🏻 I'm <a href="https://your-portfolio-link.com" target="_blank">Yahya Benlafkih</a></h1>
 
 <p align="center">
-  <img src="https://your-image-link.com" alt="Yahya Benlafkih" width="200" />
-</p>
-
-<p align="center">
   <em>Full-Stack Developer | Problem Solver | Lifelong Learner</em>
 </p>
 
